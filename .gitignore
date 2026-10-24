@@ -1,0 +1,4 @@
+__pycache__/
+.env
+utenti.json
+utenti.json.tmp
